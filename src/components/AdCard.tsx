@@ -1,4 +1,4 @@
-type AdCardProps = {
+export type AdCardProps = {
 	title: string;
 	imgUrl: string;
 	price: number;
